@@ -2,7 +2,7 @@
 package bankemployapplication;
 /**
  *
- * @author Benjamin Berman
+ * @author Yuan Tu
  */
 public class Money {
 	private int dollars;
